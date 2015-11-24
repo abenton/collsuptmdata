@@ -1,0 +1,51 @@
+state   predicted_ubc   in_train
+Alabama	0.287736103706	predicted
+Alaska	0.350000049613	poll
+Arkansas	0.309999580555	poll
+California	0.239210456768	predicted
+Connecticut	0.249015362302	predicted
+Delaware	0.197848188333	predicted
+Florida	0.21210962228	predicted
+Hawaii	0.21296707012	predicted
+Illinois	0.22984826116	predicted
+Indiana	0.119999500035	poll
+Iowa	0.179999898392	poll
+Kansas	0.24750231835	predicted
+Kentucky	0.217297333654	predicted
+Louisiana	0.159999309101	poll
+Maryland	0.194325437598	predicted
+Massachusetts	0.234072211772	predicted
+Michigan	0.210000599913	poll
+Minnesota	0.239999882391	poll
+Mississippi	0.313842178381	predicted
+Missouri	0.208085302228	predicted
+Montana	0.350000627853	poll
+Nevada	0.239998716076	poll
+New Hampshire	0.170000813253	poll
+New Jersey	0.192049867105	predicted
+New Mexico	0.529656327967	predicted
+New York	0.262632695495	predicted
+North Carolina	0.219999844356	poll
+North Dakota	0.183136363589	predicted
+Ohio	0.200000484601	poll
+Rhode Island	0.281795668063	predicted
+South Carolina	0.182038652224	predicted
+South Dakota	0.249999997915	poll
+Tennessee	0.259999300279	poll
+Texas	0.220002429602	poll
+Utah	0.180749404892	predicted
+Vermont	0.235901266229	predicted
+West Virginia	0.17000018811	poll
+Wisconsin	0.231201766487	predicted
+Wyoming	0.329999699703	poll
+Arizona	0.259998985611	poll
+Colorado	0.234668091411	predicted
+Georgia	0.189999607643	poll
+Idaho	0.325267820399	predicted
+Maine	0.221688472256	predicted
+Nebraska	0.359483165435	predicted
+Oklahoma	0.20896962062	predicted
+Oregon	0.339997977256	poll
+Pennsylvania	0.140001237121	poll
+Virginia	0.18000127062	poll
+Washington	0.24844853724	predicted
